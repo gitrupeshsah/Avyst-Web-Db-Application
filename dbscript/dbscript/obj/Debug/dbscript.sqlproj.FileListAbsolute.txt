@@ -1,9 +1,0 @@
-F:\RAJAT\avystsql\dbscript\dbscript\bin\Debug\dbscript.dacpac
-F:\RAJAT\avystsql\dbscript\dbscript\bin\Debug\dbscript.dll
-F:\RAJAT\avystsql\dbscript\dbscript\bin\Debug\dbscript.pdb
-F:\RAJAT\avystsql\dbscript\dbscript\obj\Debug\Model.xml
-F:\RAJAT\avystsql\dbscript\dbscript\obj\Debug\refactor.xml
-F:\RAJAT\avystsql\dbscript\dbscript\obj\Debug\postdeploy.sql
-F:\RAJAT\avystsql\dbscript\dbscript\obj\Debug\predeploy.sql
-F:\RAJAT\avystsql\dbscript\dbscript\obj\Debug\dbscript.dll
-F:\RAJAT\avystsql\dbscript\dbscript\obj\Debug\dbscript.pdb
